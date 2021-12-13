@@ -1,0 +1,15 @@
+Executing gradeC04.sh...
+
+Creating build subdirectory
+
+Copying student's file to the build directory:
+
+Unpacking grading code to build directory...
+c3driver.c
+Hamming72_64.h
+HammingGrader.h
+HammingGrader.o
+Invoking gcc -o c3 -std=c11 -Wall -ggdb3 *.c *.o
+
+Build succeeded...
+
