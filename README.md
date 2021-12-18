@@ -1,4 +1,4 @@
 # Hamming_Code
 SEC-DED Data Encoding
 
-<img src="https://github.com/abrarr18/Camera/blob/master/takingpicgif.gif" width=250><br>
+<img src="https://github.com/abrarrhine/Hamming_Code72_64/blob/main/Hamming%20code.jpg" width=250><br>
